@@ -1,2 +1,2 @@
 # gitActionsPractice2.0
-i practice github actions without tutorial using github superlinter
+i practice GitHub actions without tutorial using GitHub superlinter
